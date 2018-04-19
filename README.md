@@ -28,8 +28,7 @@ SCOTCH:
 
   Deploy:
     https://zeit.co/now
-
-https://mdl-electro-blog.firebaseapp.com/
+    https://mdl-electro-blog.firebaseapp.com/
 
 
 design inspiration для музыкального приложения 
