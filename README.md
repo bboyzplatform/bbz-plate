@@ -1,5 +1,56 @@
 # BillyzPlate
 
+TODO:\\ Продолжить по гайдам из следующих ссылок 
+  https://houssein.me/progressive-angular-applications - наиболее полный гайд на PWA+ANgular
+  https://www.youtube.com/watch?v=ecu1vAO23ZM - pwa
+
+  https://www.sitepoint.com/ultimate-angular-cli-reference/ - полный референс по флагам --flag-opts для angular-cli
+  https://alligator.io/angular/angular-cli-reference/         - полный референс по флагам --flag-opts для angular-cli
+
+  https://alligator.io/write-for-us/ - платформа-блог. Проба пера
+  https://developers.google.com/web/tools/workbox/guides/codelabs/webpack - воркбокс от гугла 
+  
+  https://www.mongodb.com/cloud/atlas?utm_medium=scotch-synd&utm_source=scotch&utm_content=expressive-query&jmp=scotch%E2%80%8B - mongoDB
+
+SCOTCH: 
+  https://scotch.io/tutorials/reference-angular-imports-absolutely-for-easier-development 
+  https://scotch.io/tutorials/use-the-angular-cli-for-faster-angular-2-projects
+  https://scotch.io/tutorials/building-a-simple-face-recognition-app-with-vuejs-and-kairos - адаптировать под angular
+  https://scotch.io/tutorials/creating-online-streaming-radio-with-rails-and-icecast - свой радиострим
+  https://scotch.io/courses/build-your-first-angular-website/adding-bulma-css-to-an-angular-app - BULMA integr + остальные гайды в этом цикле
+
+  https://bulma.io/extensions/ - компоненты исходники до адаптации Ангуляра
+
+
+
+
+  https://ionicframework.com/docs/ - hybrid apps конвертация и UI
+
+  Deploy:
+    https://zeit.co/now
+
+https://mdl-electro-blog.firebaseapp.com/
+
+
+design inspiration для музыкального приложения 
+http://dubfx.com/
+https://codepen.io/billyboyz/pen/MGWBBz?editors=1010 - форма аутентификации
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
 ## Development server

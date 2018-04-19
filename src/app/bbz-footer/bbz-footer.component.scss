@@ -1,0 +1,21 @@
+.footer-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    color: #999;
+    font-weight: 300;
+    padding: 5rem 0 5rem 0;
+    align-items: stretch;
+    display: flex;
+    justify-content: space-between;
+    .box {
+        padding: 1rem;
+        display: flex;
+        align-items: center;
+    }
+}
+
+i {
+    color: red;
+    font-size: 1rem;
+}

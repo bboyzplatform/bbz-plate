@@ -1,0 +1,23 @@
+.post-nav {
+    position: relative;
+    padding: 35px 40px 0;
+}
+
+.post-nav-header {
+    position: fixed;
+    display: table;
+    width: 100%;
+    background-size: cover;
+    z-index: 1;
+    text-align: center;
+    overflow: hidden;
+    height: 85px;
+    min-height: 0;
+    margin-bottom: 0;
+    background: -webkit-gradient(linear, top, bottom, from(#fff), to(rgba(255, 255, 255, 0)));
+    background: -webkit-linear-gradient(top, #fff, rgba(255, 255, 255, 0));
+    background: -moz-linear-gradient(top, #fff, rgba(255, 255, 255, 0));
+    background: -ms-linear-gradient(top, #fff, rgba(255, 255, 255, 0));
+    background: -o-linear-gradient(top, #fff, rgba(255, 255, 255, 0));
+    background: linear-gradient(top, #fff, rgba(255, 255, 255, 0));
+}

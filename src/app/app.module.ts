@@ -7,10 +7,14 @@ import { ServiceWorkerModule } from '@angular/service-worker';
 import { AppComponent } from './app.component';
 
 import { environment } from '../environments/environment';
+import { BbzFooterComponent } from './bbz-footer/bbz-footer.component';
+import { HeaderNavComponent } from './header-nav/header-nav.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    BbzFooterComponent,
+    HeaderNavComponent
   ],
   imports: [
     BrowserModule,
